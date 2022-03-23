@@ -89,7 +89,7 @@
   <a href="https://twitter.com/BashirHassanDev"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"></a>
   <a href="https://www.reddit.com/user/Careless-Oil-163"><img src="https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white" alt="reddit"></a>
   <a href="mailto:bshbsh187@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail"></a>
-  <a href="https://wa.me/249999475568"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="whatsapp"></a>
+  
 </p>
 
 <h4 align="center">My current setup 💻</h4>
