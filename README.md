@@ -17,6 +17,7 @@
 - 💬 Ask me about **Laravel** & **React** & **Next.js** & **Flutter** & **TailwindCss**
 
 - 📫 Reach me at <a href="mailto:bshbsh187@gmail.com">Gmail</a>
+- 📫 Send me a message at <a href="https://directs.space/44275879">Directs</a>
 
 
 <h2 align="center">Stats :bar_chart:</h2>
